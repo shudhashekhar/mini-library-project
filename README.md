@@ -4,9 +4,9 @@ this is a mini library project that me and my friend with some support made in o
 
 please before running the web app do these requisites:
 
-<> create mysql database named "library".
-<> create table inside that db named "student","admin","booklist".
-<> create columns for each of the tables as follows:
+create mysql database named "library".
+create table inside that db named "student","admin","booklist".
+create columns for each of the tables as follows:
 
         student=
         slno  INT,
